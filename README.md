@@ -1,9 +1,9 @@
 # Program sederhana menampilkan daftar nilai mahasiswa menggunakan Dictionary
 ### Contoh Input Program Python3 (Vs code)
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](/image/image.png)
+![alt text](/image/image-1.png)
+![alt text](/image/image-2.png)
 
 #### Penjelasan program:
 1.	Struktur Data yang Digunakan
@@ -69,7 +69,7 @@
          - Masukkan Nilai Tugas, UTS, dan UAS (contoh: 80, 85, dan 90).
          - Data akan disimpan, dan pesan "Data berhasil ditambahkan." akan muncul.
 
-![alt text](image-3.png)
+![alt text](/image/image-3.png)
 
 2. [U]bah Data
      * Menu ini digunakan untuk mengubah data mahasiswa yang sudah ada.
@@ -82,7 +82,7 @@
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
          - Setelah data diperbarui, pesan "Data berhasil diubah." akan muncul.
 
-![alt text](image-4.png)
+![alt text](/image/image-4.png)
 
 3. [H]apus Data
      * Menu ini digunakan untuk menghapus data mahasiswa berdasarkan NIM.
@@ -92,7 +92,7 @@
              - Jika data ditemukan, data akan dihapus, dan pesan "Data berhasil dihapus." akan muncul.
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
 
-![alt text](image-6.png)
+![alt text](/image/image-6.png)
 
 4. [L]ihat Data
      * Menu ini digunakan untuk melihat semua data mahasiswa dalam bentuk tabel.
@@ -104,11 +104,11 @@
              
 **Data kosong**
 
-![alt text](image-7.png)
+![alt text](/image/image-7.png)
 
 **Data Berisi**
 
-![alt text](image-8.png)
+![alt text](/image/image-8.png)
 
 5. [C]ari Data
      * Menu ini digunakan untuk mencari data mahasiswa berdasarkan NIM.
@@ -118,7 +118,7 @@
              - Jika data ditemukan, detail mahasiswa (NIM, Nama, Nilai Tugas, UTS, UAS, dan Nilai Akhir) akan ditampilkan.
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
 
-![alt text](image-9.png)
+![alt text](/image/image-9.png)
 
 6. [K]eluar
      * Menu ini digunakan untuk keluar dari program.
@@ -126,12 +126,12 @@
          - Pilih menu dengan mengetik k atau K, lalu tekan Enter.
          - Program akan menampilkan pesan "Keluar dari program." dan berhenti berjalan.
 
-![alt text](image-10.png)
+![alt text](/image/image-10.png)
 
 
 ## Flowchart
 
-![alt text](<Copy of Flowchart_20241118_094100_0000.png>)
+![alt text](/image/Copy%20of%20Flowchart_20241118_094100_0000.png)
 
 #### Penjelasan:
 
@@ -153,7 +153,7 @@
 
 ## latihan1
 
-![alt text](image-5.png)
+![alt text](/image/image-5.png)
 
 #### Penjelasan:
 1. Membuat Dictionary: Dictionary kontak dibuat dengan nama sebagai key dan nomor telepon sebagai value.
